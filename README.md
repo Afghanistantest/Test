@@ -1,4 +1,5 @@
 pkg update
+
 pkg install iw wireless-tools
 
 rm -rf Test
