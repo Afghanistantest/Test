@@ -8,4 +8,4 @@ https://github.com/Afghanistantest/Test.git
 
 cd Test
 
-python test_enc.py
+python wifitermux.py
